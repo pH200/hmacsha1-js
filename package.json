@@ -1,0 +1,15 @@
+{
+  "name": "hmacsha1",
+  "version": "1.0.0",
+  "description": "Simple HMAC-SHA1 for JavaScript. The code was extracted directly from Chromium examples for extensions.",
+  "main": "index.js",
+  "author": "pH200",
+  "license": "BSD",
+  "keywords": [
+  	"hmacsha1",
+  	"hmac_sha1",
+  	"sha1",
+  	"crypto",
+  	"oauth"
+  ]
+}
